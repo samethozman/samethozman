@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @samethozman
-- 👀 I’m interested in Data Analyst 
-- 🌱 I’m currently learning SQL, R and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samet.hozman@outlook.com
+  Hello visitor :wave:
+### <i>About</i>
+- 🌱 I’m currently learning data visualization with R and also creating websites with PHP language.
+- 📫 How to reach me: samet.hozman@outlook.com
+- 😄 Pronouns: he/him
+- :camping: My hobbies are American Football, fitness and camping.
 
-<!---
-samethozman/samethozman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ [![Samet's github stats](https://github-readme-stats.vercel.app/api?username=samethozman&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/samethozman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samethozman&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/samethozman/github-readme-stats)
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-samethozman-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samethozman//)](https://www.linkedin.com/in/samethozman/)  ![Profile views](https://gpvc.arturio.dev/samethozman) 
