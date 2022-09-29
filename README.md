@@ -1,6 +1,6 @@
   Hello visitor :wave:
 ### <i>About</i>
-- 🌱 I’m currently learning PHP language.
+- 🌱 I’m currently learning React.js language.
 - 📫 How to reach me: samet.hozman@outlook.com
 - 😄 Pronouns: he/him
 - :camping: My hobbies are American Football, fitness and camping.
